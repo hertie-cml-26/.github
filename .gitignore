@@ -1,0 +1,10 @@
+# --- teach managed (private/local) ---
+CLAUDE.md
+.claude/
+memory/
+context/
+**/raw-grades.csv
+**/curved-grades.csv
+grades*.csv
+.DS_Store
+# --- end teach managed ---
